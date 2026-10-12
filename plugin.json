@@ -1,0 +1,25 @@
+{
+  "name": "deployxa_zcode",
+  "version": "1.0.0",
+  "description": "Official Deployxa plugin for ZCode - autonomous project deployment, live log inspection, and AI diagnosis.",
+  "author": {
+    "name": "Deployxa Team",
+    "email": "info@deployxa.com",
+    "url": "https://deployxa.com"
+  },
+  "homepage": "https://deployxa.com",
+  "repository": "https://github.com/deployxa/zcode-plugin",
+  "license": "MIT",
+  "keywords": [
+    "deployxa",
+    "zcode",
+    "deployment",
+    "paas",
+    "devops",
+    "mcp",
+    "cloud"
+  ],
+  "mcpServers": "./.mcp.json",
+  "skills": "./skills",
+  "commands": "./commands"
+}

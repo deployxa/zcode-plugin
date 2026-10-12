@@ -1,0 +1,11 @@
+{
+  "name": "deployxa_zcode",
+  "displayName": "Deployxa for ZCode",
+  "version": "1.0.0",
+  "publisher": "deployxa",
+  "description": "Autonomous cloud deployments, streaming build logs, and Engine AI diagnostics for Deployxa projects in ZCode.",
+  "categories": ["DevOps", "Cloud", "Deployment", "Diagnostics"],
+  "tags": ["deployxa", "mcp", "zcode", "cloud"],
+  "icon": "https://deployxa.com/icon.png",
+  "plugin": "./plugin.json"
+}
